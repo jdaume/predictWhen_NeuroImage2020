@@ -1,6 +1,8 @@
 # predictWhen_NeuroImage_2020
 
-Analysis code from Daume et al (2020) Non-rhythmic temporal prediction involves phase resets of low-frequency delta oscillations. NeuroImage.
+Analysis code from Daume et al (2021) Non-rhythmic temporal prediction involves phase resets of low-frequency delta oscillations. NeuroImage 224, 117376
+
+https://doi.org/10.1016/j.neuroimage.2020.117376
 
 --------------------------------------------
 
